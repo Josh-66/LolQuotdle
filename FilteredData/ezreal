@@ -1,0 +1,787 @@
+Champion Select
+
+Pick
+
+     
+       "Quest accepted! ...Wait, where are we going?"
+
+Ban
+
+     
+       "Hey, your loss. But I get it."
+
+    Classic
+    Pulsefire
+    Battle Academia
+    Porcelain Protector
+
+Ezreal_Special_Interactions
+Original Original Arcade Arcade Star Guardian Star Guardian
+
+Each of these skins feature some additional quotes and interactions, but otherwise use the Classic voiceover. Some Classic voicelines may also be disabled while using alternate skins.
+Game Start
+
+Music upon start of the game
+
+Star Guardian Ezreal Star Guardian Ezreal
+
+     
+      Ezreal StarGuardianCircle.png A stripped-down version of "A New Horizon" plays, which then switches to "Burning Bright".
+
+Movement
+First Move
+
+     
+       "Yeah, yeah, yeah. World. Peril. Save it. I got it, I got it."
+     
+       "Huh, could've sworn there was a hidden entrance around here somewhere…"
+     
+       "Where there's treasure, there's glory. And where there's glory… girls are watching."
+     
+       *sigh* "I don't care where here is. Just point me toward adventure."
+     
+      Ezreal ArcadeCircle.png "To save video games, he had to become video games. Ezreal is… video games."
+     
+      Ezreal StarGuardianCircle.png ♫"Burning Bright! Nah-nah-nah-nah Nah-nah-nah-something."♫
+     
+      Ezreal StarGuardianCircle.png A stripped-down version of "A New Horizon" plays, which then switches to "Burning Bright."
+
+Moving
+
+     
+       "Impossible comebacks are sorta my specialty."
+     
+       "The gauntlet's for show… the talent's all me."
+     
+       "Jarro Lightfeather never gives up. He learned that from me."
+     
+       "I'm at my best when the world's on the brink of annihilation."
+     
+       "Little piece of advice: If no one tells you something's impossible, then it's still possible. So go do it."
+     
+       "I rarely know what I'm looking for, but I always find it."
+     
+       "Never met a problem I couldn't blast away with magic… that I don't even understand."
+     
+       "True explorers follow the compass in their heart."
+     
+       "If I don't know the rules, then how can I be breaking them?"
+     
+       "I'm in my element, fighting evil. Life is good."
+     
+       "I hate the word 'steal.' I prefer 'liberate' or 'procure.'"
+     
+       "When you've got talent, there's not such thing as a lucky shot."
+     
+       "Oh, a plan. Yeah, I totally have one of those."
+     
+       "Exploration runs in my family. It's in my blood."
+     
+       "I'm always open to new ideas. My new ideas."
+     
+       "Once it's a ruin, I can legally loot it."
+     
+       "Nothing stops me. Except for Shuriman parasites. It was… not pretty."
+     
+       "I can't get hauled into wizard court again. Technically I don't have a permit for the gauntlet."
+     
+       "They really hate me in Shurima. And in Noxus. Demacia's lukewarm on me. Haven't been to Ionia yet, seems nice."
+     
+       "Last time I was in Shurima, I decoded some glyphs. Something about a… jackal head, end of times… the usual. I just wanted this ruby scarab. It looked great on my mantle."
+     
+       "Yeah, we'll liberate a priceless artifact or two. Kill some bad guys. Maybe save the world. Y'know, typical hero stuff. It'll be great."
+     
+       "It's not grave-robbing if you have a college degree. Which I do… *cough* not have a college degree."
+     
+       "I unearth the secrets of the past and sell them to the highest bidder. Does that make me a criminal? ...Don't answer that."
+     
+       "I use a fake name in Demacia: Jarro Lightfeather. Sentinel of Light, 8th Order. He's a national hero."
+     
+       "I don't read books about the world. I go out there and see it for myself."
+     
+       "No plan survives first contact with me."
+     
+       "There's an unspoken law in archaeology: Finders, keepers."
+     
+       "Feels like the whole world's gone crazy. Right on schedule."
+     
+       "Who needs a map?"
+     
+       "Some people call me a hero. Their word, not mine. But it does have a nice ring to it."
+     
+      Ezreal ArcadeCircle.png "Ooh, did I save my game before this?"
+     
+      Ezreal ArcadeCircle.png "I'm rated E for Ezreal."
+     
+      Ezreal ArcadeCircle.png "What level am I on?"
+     
+      Ezreal ArcadeCircle.png "Ez tanks, locked and loaded."
+     
+      Ezreal ArcadeCircle.png "Uh, I hold the speed-running record for Hyper Crystal Dungeon. This is nothing."
+     
+      Ezreal ArcadeCircle.png "Woo! Just unlocked the 'Awesome at Everything' achievement!"
+     
+      Ezreal ArcadeCircle.png "Huh… where's the warp zone?"
+     
+      Ezreal ArcadeCircle.png "I'll beat this… League of Legends?"
+     
+      Ezreal StarGuardianCircle.png "Star Guardians for life! Except during Ezreal time. Gotta have my Ezreal time."
+     
+      Ezreal StarGuardianCircle.png "How 'bout a serenade?"
+     
+      Ezreal StarGuardianCircle.png "Hmm, maybe I'll ask the First Star for a tuxedo… and some roses."
+     
+      Ezreal StarGuardianCircle.png "I don't want to brag, but I'm somewhat of a cosmic sensation."
+     
+      Ezreal StarGuardianCircle.png "Outshine everyone, and no one will see what you're up to."
+     
+      Ezreal StarGuardianCircle.png "At least the First Star didn't put me in one of those sailor getups."
+     
+      Ezreal StarGuardianCircle.png "The entire universe awaits us."
+     
+      Ezreal StarGuardianCircle.png "If it's not made of stardust, it's not worth the effort."
+     
+      Ezreal StarGuardianCircle.png "I can't believe they talked me into this."
+     
+      Ezreal StarGuardianCircle.png "True Star Guardians never burn out."
+     
+      Ezreal StarGuardianCircle.png "Gotta admit it, the uniform's growing on me."
+
+Moving in River
+
+     
+       "...And my boots are not waterproof. Fantastic."
+     
+       "Ugh… water's cold. AHH! Something touched my foot!"
+     
+       "'Know your environment.' My environment… is wet and muddy and probably filled with leeches."
+
+Moving in Jungle
+
+     
+       "I always know a shortcut."
+     
+       "This reminds me of discovering the spirit tomb of Ekrin."
+     
+       "A beaten path is a boring path."
+     
+       "No way to predict the twists and turns ahead. That's why I wing it!"
+
+First Encounter
+
+     
+       "Don't make me put my goggles on. They're decorative."
+     
+       "Time to show 'em who's best. Spoiler: it's me."
+     
+      Ezreal StarGuardianCircle.png "Yuuto says you're ugly. I agree."
+
+First Encounter with Annie Annie
+
+     
+       "Oh, a little girl! There's gotta be a twist. *gasps* It's the teddy bear, isn't it?!"
+
+First Encounter with Ashe Ashe
+
+     
+       "Hey, Ashe. I totally meant to return that Avarosan sculpture thingy. Is that an ice bow? That's a cool ice bow."
+
+First Encounter with Aurelion Sol Aurelion Sol
+
+     
+       "A celestial dragon that throws stars. Well, this is totally normal. I can do this."
+
+First Encounter with Caitlyn Caitlyn
+
+     
+       "Possession is 9/10ths of the law, Caitlyn. Those pre-Zaunite demon totems are mine fair and square."
+
+First Encounter with Camille Camille
+
+     
+       "Okay, Camille. Fork over that Brackern Brackern Crystal."
+
+First Encounter with Corki Corki
+
+     
+       "Woo! Strong goggles game, Corki. Keep it up."
+
+First Encounter with Ezreal Ezreal
+
+     
+       "Aw, crap, I opened a mirror dimension again! ...Does my hair really look like that?"
+
+First Encounter with Galio Galio
+
+     
+       "Giant petricite gargoyle. So it's gonna be one of those kind of days."
+
+First Encounter with Heimerdinger Heimerdinger
+
+     
+       "Hey, brainface, you are why no one likes Yordle inventors."
+
+First Encounter with Jayce Jayce
+
+     
+       "Can't manufacture magic in a lab, Jayce! Or good looks, for that matter."
+
+First Encounter with Jhin Jhin
+
+     
+       "That mask is not art, Jhin. It's ancient history."
+
+First Encounter with Jinx Jinx
+
+     
+       "Nope! I did not sign up for Jinx-level crazy."
+
+First Encounter with Kindred Kindred
+
+     
+       "Hey, Lamb… is Wolf friendly?"
+
+First Encounter with LeBlanc LeBlanc
+
+     
+       "Oh, I've heard of the Black Rose. Nasty reputation... I mean, uh, huge fan!"
+
+First Encounter with Lucian Lucian
+
+     
+       "Lucian! It's me… Jarro Lightfeather."
+
+First Encounter with Lux Lux
+
+     
+       "Don't pretend you didn't see me, Lux. That doesn't work."
+     
+       *voice cracking* "Hey, Lux! *clears throat* Hey, Lux. What're yah up to later? Let's hang."
+     
+       "I'm a mage. You're a mage. I'm blond. You're blonde. Doesn't it feel like we're made for each other?"
+     
+       "Hi, honey! Is it too soon to call you honey? It's too soon."
+
+First Encounter with Star Guardian Lux Star Guardian Lux
+
+     
+      Ezreal StarGuardianCircle.png "Pink looks good on you, Lux. I like it."
+     
+      Ezreal StarGuardianCircle.png "Your eyes really do twinkle like starlight."
+
+First Encounter with Ornn Ornn
+
+     
+       "Can you forge me a matching gauntlet?"
+
+First Encounter with Pyke Pyke
+
+     
+       "Well, you are just terrifying, aren't you, Pyke?"
+
+First Encounter with Rakan Rakan
+
+     
+       "So… Rakan. How serious are you and Xayah? Just asking."
+
+First Encounter with Rek'Sai Rek'Sai
+
+     
+       "What the heck is that?!"
+
+First Encounter with Ryze Ryze
+
+     
+       "Hey, Ryze! Are you still hiding all those dangerous runes in one place? *louder* Should I not yell that?"
+
+First Encounter with Sivir Sivir
+
+     
+       "Oh, c'mon! Sivir! I swear, I didn't know I was robbing your family's ossuary!"
+
+First Encounter with Taliyah Taliyah
+
+     
+       "Throw some more rocks, Taliyah! I need targets to shoot!"
+
+First Encounter with Taric Taric
+
+     
+       "Yeah, I get it. It's tough being handsome. Right, Taric?"
+
+First Encounter with Xayah Xayah
+
+     
+       "Well hello, Xayah. You should know that I am pro-Vastayan rights."
+
+First Encounter with Xerath Xerath
+
+     
+       "Hey, Xerath! How come you didn't get a cool Ascended animal body?"
+
+First Encounter with Zoe Zoe
+
+     
+       "Gahh, I'm too young for you, Zoe. Cradle-robber."
+     
+       "Zoe, you're ruining my chances with Lux!"
+
+First Encounter with an Ascended
+
+     
+       "Oh, cool. Great. They have an Ascended. This should be fun."
+
+First Encounter with a Bilgewater Crest icon.png Bilgewater Champion
+
+     
+       "Everyone! Watch your coin purses!"
+
+First Encounter with a Darkin Darkin
+
+     
+       "Darkin? We're gonna need a bigger army!"
+
+First Encounter with a Demacia Crest icon.png Demacian that isn't Lux Lux
+
+     
+       "Listen, I have met exactly one Demacian I've liked. By the way, has Lux mentioned me at all? Just curious."
+     
+       "Jarro Lightfeather doesn't do autographs. Sorry."
+
+First Encounter with a Demigod
+
+     
+       "Oh, okay, demigods! Well, universe, you seem to really want to screw with old Ezreal today!"
+     
+       "Oh, please, we gotta deal with demigods?! I really need to up my rate."
+
+First Encounter with a Demon
+
+     
+       "Demons? This is a job for Jarro Lightfeather."
+
+First Encounter with a Monster
+
+     
+       "The uglier the monster, the more fun they are to shoot."
+
+First Encounter with a Noxus Crest icon.png Noxian Champion
+
+     
+       "Why is it always about strength with Noxians? How about vulnerability for once?"
+     
+       "Noxians. I hate these guys."
+
+First Encounter with a Piltover Crest icon.png Piltovan Champion
+
+     
+       "Heh! Piltovans! Always think they're the center of the universe."
+
+First Encounter with a Targon Crest icon.png Targonian Champion
+
+     
+       "Targonians… Hey, ten words or less, what exactly are you guys?"
+
+First Encounter with a Shadow Isles Crest icon.png Shadow Isles Champion
+
+     
+       "Shadow Isles… all that Black Mist has got to be protecting something really valuable."
+
+First Encounter with a Shurima Crest icon.png Shuriman Champion
+
+     
+       "Shurimans. Always thinking I appropriated their cultural heritage. They're not wrong."
+
+First Encounter with an Undead champion
+
+     
+       "Didn't expect unliving ghouls. Note to self: always expect unliving ghouls."
+
+First Encounter with a Vastayan
+
+     
+       "Vastaya! Just like in Santangelo's field guide!"
+
+First Encounter with a Bandle City Crest icon.png Yordle
+
+     
+       "Yordles. Why'd it have to be Yordles?"
+
+First Encounter with a Star Guardian Star Guardian
+
+     
+      Ezreal StarGuardianCircle.png "I'm better than the First Star. Don't tell Ahri Ahri I said that."
+
+Idle
+
+     [[File:|alttext=Original skin]]
+    "Do I wear my gauntlet... or does my gauntlet wear me?"
+     [[File:|alttext=Original skin]]
+    "Hey there, gauntlet! How ya doin', buddy?"
+
+Taunt
+
+     
+       *yawn* "Call me when the stakes are higher."
+     
+       "You belong in a museum!"
+
+Taunting an Ally
+
+     
+       "Oh, please don't die. I can't lose a sidekick. Not again."
+     
+       "Hey. We can do this! Well, I can do this. You, 50/50."
+     
+       "Stick with me and you'll be fine. That's not a guarantee, by the way."
+
+Taunt Response
+
+     
+       "Sick burn… probably? Wasn't listening."
+     
+       "Sorry, I wasn't paying attention. What are your weak spots again?"
+     
+       "There's somewhere else I gotta be. Literally anywhere else."
+
+Joke
+
+    Ezreal tries to balance an artifact on his index finger, but drops it and barely manages to catch it.
+
+     
+       "Ah. Watch this. ...We will never speak of this again. Ever."
+
+Joke Response
+
+     
+       "This is no time for jokes. Your jokes. My jokes are great."
+
+Laugh
+
+     
+       Ezreal laughs.
+     
+       Ezreal laughs.
+     
+       Ezreal laughs.
+     
+       Ezreal laughs.
+
+Dance
+
+     
+       "Lot of good mages out there! None of them are this hot!"
+     
+       "Are you not intrigued?"
+
+Attack
+Attacking
+
+     
+       "Time for a true display of skill."
+     
+       "Gauntlet, let's clear a path."
+     
+       "Watch and learn!"
+     
+       "Blast 'em, gauntlet!"
+     
+       "No time to waste!"
+     
+       "Hah! I can blink and still not miss."
+     
+       "Magic? Comin' at you."
+     
+       "Obstacle, meet gauntlet."
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+
+Attacking Ekko Ekko
+
+     
+       "Pick a timestream, kid."
+
+Attacking Garen Garen
+
+     
+       "Hey Garen! How's your sister?"
+
+Attacking Star Guardian Jinx Star Guardian Jinx
+
+     
+      Ezreal StarGuardianCircle.png "Red. That's fitting for you, Jinx."
+
+Attacking Lux Lux
+
+     
+       "This is flirty fighting."
+     
+       "Heh, this is so us! Right, Lux?"
+
+Attacking Star Guardian Lux Star Guardian Lux
+
+     
+       "So, are you busy later?"
+
+Attacking Shyvana Shyvana
+
+     
+       "Aim for the legs…"
+
+Attacking Zoe Zoe
+
+     
+       "Leave Lux alone, Zoe!"
+
+Attacking a Yordle
+
+     
+       "I'm gonna send you back to… wherever Yordles come from."
+
+Attacking Dragon Dragon
+
+     
+       "Stand back! Let an expert handle this."
+
+Ability Casting
+Using Mystic Shot Mystic Shot
+
+     
+       "Gawk at this!"
+     
+       "Marvel at that!"
+     
+       Ezreal grunts.
+     
+       "Heha!"
+     
+      Ezreal StarGuardianCircle.png "Get starstruck!"
+     
+      Ezreal StarGuardianCircle.png "Embrace the cosmic light!"
+     
+      Ezreal StarGuardianCircle.png "Light never dies!"
+     
+       Ezreal grunts.
+
+Hitting with Mystic Shot Mystic Shot
+
+     
+       "Nice shot, me. High-five."
+     
+       "Another day, another bullseye."
+
+Missing with Mystic Shot Mystic Shot
+
+     
+       "I. Never. Miss. But I have been known to fire a warning shot or two…"
+     
+       "Must've ricocheted off a cricket or… something…"
+     
+       "Gauntlet! You're embarrassing me in front of the bad guys!"
+     
+       "It wasn't a miss. It was a… near-hit."
+     
+       "That was a, uh… that was a warning shot!"
+     
+       "I blame the terrain. Totally that rock's fault."
+
+Using Essence Flux Essence Flux
+
+     
+       "Yeah!"
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+
+Using Arcane Shift Arcane Shift
+
+     
+       "Over here!"
+     
+       "Now I'm here!"
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+
+Using Trueshot Barrage Trueshot Barrage
+
+     
+       Ezreal yells.
+     
+       Ezreal yells.
+     
+       Ezreal yells.
+
+Kills & Objectives
+
+Killing a Champion
+
+     
+       "Name's Ezreal. E-Z-… oh, you're dead."
+     
+       "And Ezreal is victorious! Ahhh! Yeah!"
+     
+       "That's what skill feels like. Hurts, doesn't it?"
+     
+       "Oooh, that looked like it hurt."
+     
+       "Maybe next time I'll open an eye."
+     
+       "Can't learn that in a textbook."
+     
+      Ezreal StarGuardianCircle.png "And now, you're cosmic dust!"
+
+Scoring a Pentakill
+
+     
+       "No applause, please! ...Okay, maybe just a bit of thunderous acclaim! ...A little?"
+
+Scoring an Ace
+
+     
+       "Good job, everyone. Let's, uh… just keep doing whatever you were doing."
+     
+       "Wow. That escalated quickly!"
+
+Sole Survivor
+
+     
+       "Take five, everyone. I got this."
+
+Destroying a Turret icon.png Turret
+
+     
+       "Everyone see that? No? Damn! Now I've got to go and do it again!"
+     
+       "Oooh, I hope that wasn't a world heritage site."
+     
+       "They just don't make temple traps like they used to."
+     
+       "I'll come back later and sift through the rubble for artifacts."
+     
+       "Cool guys never look back at explosions."
+
+Killing Baron Nashor Baron Nashor
+
+     
+       "Never act like victory is assured. Even though it probably is."
+
+Gold.pngShopping
+
+Opening the Shop
+
+     
+       "That belongs in a museum. ...All of this belongs in a museum... I won't say anything."
+     
+       "If anyone asks, I didn't see any of these priceless artifacts for sale."
+     
+       "Don't worry, I'm not the magic artifact police. Wait, are you?"
+
+Buying an item
+
+     
+       "Can I get an itemized receipt? My accountant's way too good at his job."
+     
+       "Nice. You can send the bill to my uncle's museum."
+     
+       "This is really worth ten times the asking price."
+
+Recall Recall
+
+     
+       "We mages call this a warlock exit."
+     
+       "Ancient. Magic. Words."
+     
+       "Don't attempt anything glorious in my absence."
+     
+       "Alright, guys. Don't miss me too much."
+     
+       "Relax. I blindly teleport long distances all the time!"
+     
+       "Whoa. Time out, everyone! Don't continue the fight without me!"
+     
+      Ezreal StarGuardianCircle.png A shortened version of "A New Horizon" plays.
+
+Death
+
+     
+       Ezreal groans.
+     
+       Ezreal groans.
+
+Respawn
+
+     
+       "Reports of my death have been greatly exaggerated."
+     
+       "I'll be omitting that little mishap from the expedition logs."
+     
+       "I truly hope nobody saw that."
+     
+       "Back from the dead? That confirms it. I am a god."
+
+Sound effects
+
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+     
+       Ezreal grunts.
+
+Unsorted
+
+     
+       "No problems here!"
+     
+       "Haha, I'm allergic to caution."
+     
+       "I'm a professional."
+     
+       "You're between me and glory."
+     
+       "I'm not even breaking a sweat."
+     
+       "Hard work? Not today!"
+     
+       "All part of the adventure."
+     
+       "Sounds dangerous. I'm in."
+     
+       "No luck. All skill."
+     
+       "I'll handle this!"
+     
+       "No sweat."
+     
+       "Oh-ho! It is so on."
+     
+       "I'll make this look easy."
+     
+       "I'll show you skill!"
+
+Co-op vs. AI Responses
+
+Match Start
+
+    "Ready for the best?"
+
+Player Team Victory
+
+    "GG"
+
+Player Team Defeat
+
+    "I let you guys off easy!"
+

@@ -1,0 +1,692 @@
+Champion Select
+
+Pick
+
+     
+       "Fine, we go."
+
+Ban
+
+     
+       "Back to the forge."
+
+Ornn_Special_Interactions
+Game Start
+
+     
+       "A day away from my forge is a day wasted."
+     
+       "All I need is myself, and... Hammer."
+
+Movement
+First Move
+
+     
+       "The best meal is a herd of cattle, with dark beer, and cherries... Mmm."
+     
+       "I'm going this way. Do not follow me. Please."
+     
+       "I made this hammer. It was so good I named it... Hammer."
+     
+       "I will go over there. It looks quiet. It will be nice."
+     
+       "Name's Ornn. No further pleasantries needed."
+     
+       "I have fur. It is soft. Do not hug me."
+     
+       "The Freljord is a place for building, fighting, and eating. Home sweet home."
+     
+       "If all goes well, our paths will never cross again. It never goes well."
+
+First Move with Volibear Volibear
+
+     
+       (Ornn sniffs.) "Singed fur... Jealous blood... My brother is near!"
+     
+       "Volibear is near... Everyone seek shelter!"
+     
+       "I cannot choose my brother, only the weapons to slay my brother."
+
+Moving
+ 
+     
+       "It is childish to favor one tool over another, but Hammer is my favorite."
+     
+       "Humans have done some things right: beer, dark beer."
+     
+       "Once a human kneels, they rarely stand again."
+     
+       "My forge is my home."
+     
+       "I do not need company; only a wall, to keep out company."
+     
+       "Once I made a harpoon out of a mountain and a world tree. That was a weird century."
+     
+       "Bah, look at all these lazy trees."
+     
+       "Backbreaking labor is life's greatest pleasure."
+     
+       "The other gods don't understand me. Hmph, good."
+     
+       "The last time I ate a plant was never."
+     
+       "My work speaks in the roar of flame and the ringing of steel."
+     
+       "I will make an axe that is also a sword. And possibly a spoon."
+     
+       "Everything is better when it is molten. Lead, iron, chocolate cake."
+     
+       "I had followers once. They tried."
+     
+       "Luck is failure that failed."
+     
+       "I enjoy being alone. Fewer unintended casualties."
+     
+       "The Freljord forges men out of... whatever children are. Dirt, goblins."
+     
+       "Ornn builds things, go see Ornn. Nobody ever says thank you."
+     
+       "This world has potential. Needs hammering."
+     
+       "Gods do not need followers. Followers need gods."
+     
+       "Solitude always meets my expectations."
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grumbles*
+     
+       *Ornn grumbles*
+     
+       *Ornn grumbles*
+     
+       *Ornn grumbles*
+     
+       *Ornn grunts*
+     
+       *Ornn grumbles*
+     
+       *Ornn grunts*
+
+Moving in Base
+
+     
+       "Hmm... Noxian granite. Respectable choice."
+     
+       "Walls are fine."
+     
+       "Could do without the statues."
+     
+       "Decent stonework."
+     
+       "Huh, loose cobblestone. Will fix later."
+     
+       "The architecture here is not wholly terrible."
+
+Moving in River
+
+     
+       "Hmm, this river needs a dam."
+     
+       "I did not want to cool off, but this feels nice."
+     
+       "Volibear made the first river. You do not want to know how."
+
+Taunt
+
+Taunting an Ally
+
+     
+       "Your job is not dying."
+     
+       "You remind me of a young me, who was less impressive."
+     
+       "Huh. You are not entirely an arse."
+     
+       "Working with you is almost like working alone. Almost."
+     
+       "Something you should know about me..." (Ornn grumbles.)
+
+Taunting an Enemy
+
+     
+       "Whatever you want, the answer is go away."
+     
+       *Ornn grumbles*
+     
+       *Ornn grumbles*
+     
+       "I don't know what you do and I don't care."
+     
+       "Your base is that way. Go cower in it."
+
+Taunt Response
+
+     
+       "I do not care at all."
+     
+       "This is a waste of my time."
+     
+       (Ornn grunts, annoyed.)
+     
+       (Ornn sighs.) "I do not care at all."
+
+Joke
+
+     
+       Ornn grunts and hums as he fries an egg in his hand, then yells in frustration as a poro eats it.
+
+Joke Response
+
+     
+       "Buy a joke book. And a clown."
+     
+       (Ornn grunts.)
+     
+       (Ornn grunts.)
+     
+       "I now like you less. I did not think that was possible."
+     
+       "Stop it."
+     
+       "No."
+
+Laugh
+
+     
+       Ornn laughs.
+     
+       Ornn laughs.
+     
+       Ornn laughs.
+
+Dance
+
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+     
+       Sound Effect
+
+Attack
+Basic Attacking
+
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+     
+       *Ornn grunts*
+
+Attacking
+
+     
+       "Enough!"
+     
+       "Hold still!"
+     
+       "An iron will must be forged!"
+     
+       "Good! Yes!"
+     
+       "I will hit you until minerals fall out!"
+     
+       "Eugh! Even my beard is angry!"
+     
+       "Anvil time!"
+     
+       "Hold my ale."
+     
+       "That's a whompin!"
+     
+       "This is called building character."
+     
+       "Nose! Meet grindstone!"
+     
+       "This will ring nicely!"
+     
+       "Ahhh, hitting relieves stress."
+     
+       "Fighting is my first language."
+     
+       "Good! Yes!"
+     
+       "You are a nail."
+     
+       "Nose! Meet grindstone!"
+     
+       "I have a hard head."
+     
+       "I was working!"
+     
+       "The work is the reward!"
+     
+       "Now this I like!"
+     
+       "Hammer never fails."
+     
+       "You like that? I do!"
+
+Attacking Aatrox Aatrox
+
+     
+       "I don't like the look of that thing."
+
+Attacking Anivia Anivia
+
+     
+       "We never talk. Might as well fight!"
+
+Attacking Garen Garen
+
+     
+       "Your sword has no counterbalance!"
+
+Attacking Gragas Gragas
+
+     
+       "Give me the ale and no one gets hurt."
+
+Attacking Heimerdinger Heimerdinger
+
+     
+       "Stop building!"
+
+Attacking Poppy Poppy
+
+     
+       "My hammer is better."
+
+Attacking Teemo Teemo
+
+     
+       "I do not like you."
+
+Attacking Volibear Volibear
+
+     
+       "This is for my followers!"
+
+Ability Casting
+Using Living Forge Living Forge
+
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+     
+       Ornn hums.
+
+Upon finishing forging an Item
+
+     
+       "Good... Yes."
+     
+       "I taught Doran everything he knows."
+     
+       Ornn grunts.
+     
+       Ornn grunts.
+     
+       Ornn grunts.
+     
+       Ornn grunts.
+     
+       Ornn grunts.
+     
+       Ornn grunts.
+     
+       "Ahh."
+
+When an Ally is given an Item Upgrade (Ally only)
+
+     
+       "Do not hang that on a wall."
+     
+       "I trust you know how to use that."
+     
+       "No exchanges."
+     
+       "If you want a weapon, here's a weapon. If you want conversation, here's a weapon."
+     
+       "Do not waste that."
+     
+       "You will not be disappointed."
+     
+       "Ornn tested, Ornn approved."
+     
+       "This does not mean we are friends."
+     
+       "A good axe will fell a tree. A great axe will fell an army."
+     
+       "The weapons I forge do not have names. They have ambitions."
+     
+       "That's a weapon. Y'know, for fighting."
+     
+       "You may be worthy of that. Do not prove me wrong."
+     
+       "That is what good looks like."
+     
+       "That is for wielding, not for entertaining."
+     
+       "I was looking at that one too."
+     
+       "I didn't make that. You didn't buy it."
+
+Using Searing Charge Searing Charge
+
+Upon hitting terrain
+
+     
+       Ornn yells.
+     
+       Ornn yells.
+     
+       Ornn yells.
+
+Upon destroying player-made terrain
+
+     
+       "Heheh, broke that real good."
+     
+       "Easy build, easy break."
+     
+       "Mortal craftsmanship, please."
+     
+       "Whoops. Found a flaw."
+     
+       "Shattered and melted."
+     
+       "A strong sneeze would've had the same effect."
+     
+       "Bad workmanship."
+     
+       "Demolished! Easy."
+     
+       "Barely touched it."
+
+Using Call of the Forge God Call of the Forge God
+
+Upon Second Cast
+
+     
+       Ornn yells.
+
+Kills and Objectives
+
+Killing a Champion
+
+     
+       "That's done."
+     
+       "Job complete."
+     
+       "Mhm. Yup. Dead."
+     
+       "It has not been a pleasure."
+     
+       "Character built."
+     
+       "Ahhh."
+     
+       "Well, that happened."
+     
+       "Nailed it."
+
+Scoring a Pentakill
+
+     
+       "Job done! Time to go home."
+     
+       "Back to work."
+     
+       "That was more fun than I expected."
+     
+       "Fixed!"
+     
+       "That fixed everything."
+     
+       "Problems solved."
+
+Sole Survivor
+
+     
+       (Ornn grumbles.) "We're ready Ornn... we'll be right behind you..." (Ornn grunts.)
+     
+       "Just leave everything to me as usual."
+     
+       "Good job, everyone."
+     
+       "I'm used to this level of disappointment."
+
+Destroying a Turret icon.png Turret
+
+     
+       "Too much sorcery, not enough elbow grease."
+     
+       "Heh, not one of mine."
+     
+       "Build it again. Correctly."
+     
+       "Honestly though, I was just leaning on it."
+     
+       "It's always the magic parts that break."
+     
+       "I've seen sturdier sandcastles."
+
+Other Gameplay
+
+Using a Potion
+
+     
+       "Hmm, cherry flavored. Not bad."
+     
+       "Fuel for the old hearth-fire."
+     
+       "Whatever this drink is made of, it is working."
+     
+       "That hit the spot."
+     
+       "Heyyy, this is pretty good stuff."
+
+Placing a Ward icon.png Ward
+
+     
+       (Ornn grunts.) "I do not like surprises."
+     
+       "Hmm, that all it does? Okay."
+     
+       "You stay here."
+     
+       "Is it on?"
+     
+       (Ornn grunts.) "I do not know how to feel about this thing, but okay."
+
+Destroying a Ward icon.png Ward
+
+     
+       "Not on my watch."
+     
+       "Spy on that."
+     
+       "Denied."
+     
+       "Heheh! Broke it real good."
+     
+       "There, fixed that for you."
+     
+       "Early warning is key."
+     
+       "Was like that when I found it."
+
+Pinging
+
+Pinging a Target
+
+     
+       "Fine! I will intervene!"
+     
+       "Fire up the forge!"
+     
+       "Horns first!"
+     
+       "Into the fray!"
+     
+       "Turn up the heat."
+     
+       "Ugh. Everyone get behind me!"
+     
+       "We fight now!"
+     
+       "This will be fun!"
+     
+       "Ready for this?!"
+
+Recall Recall
+
+Canceling Recall Recall
+
+     
+       "Hmph. Never mind."
+     
+       "Changed my mind."
+
+Using Teleport Teleport
+
+     
+       "A fight's where I want to be."
+     
+       "A good workman is needed."
+     
+       "I swear, if Volibear is there..."
+     
+       "Time to show them the horns."
+     
+       "Efficient travel method. I approve."
+     
+       "Hmm, this is fast, but it can't be good for you."
+     
+       "I prefer walking... but, fine."
+     
+       "I'll just drop by."
+     
+       "They won't be ready for me."
+     
+       "I love a surprise."
+     
+       "Here we go."
+
+Using Teleport Teleport to an Ally
+
+     
+       "I'm on my way. Stop asking."
+     
+       "You requested my aid!"
+     
+       "Hold!"
+     
+       "Hooooold!"
+     
+       "Hold!"
+     
+       "Hoold!"
+     
+       "My horns are on the way!"
+     
+       "Don't start without me!"
+     
+       "You each owe me a beer!"
+     
+       "Hot stuff!"
+     
+       "Incoming!"
+
+Death
+
+     
+       "Well done."
+     
+       "I broke my beard!"
+     
+       Ornn groans.
+
+Respawn
+
+     
+       "I didn't die. My forge missed me."
+     
+       "Still no water in the fountain."
+     
+       "Rekindled the old furnace."
+

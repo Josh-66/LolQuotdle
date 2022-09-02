@@ -1,0 +1,524 @@
+Champion Select
+
+Pick
+
+     
+       "I'm on the case."
+
+Ban
+
+     
+       "Shall I turn in my badge and rifle as well?"
+
+    Classic
+    Pulsefire
+    Battle Academia
+
+Caitlyn_Special_Interactions
+Movement
+First Move
+
+First Move
+
+     
+       "So close to a breakthrough. All I must do is connect the dots."
+     
+       "Every case, every investigation brings me one step closer to justice."
+     
+       "It's easy to overlook the rust beneath the gilding, but I never miss a detail."
+     
+       "My duty is to protect the citizens of Piltover, and I will see that through."
+     
+       "I ought to thank 'C' for setting me on this path. Life in prison seems a proper gift, does it not?"
+     
+       "It should be progress, not power and fear, that leads Piltover into the future."
+     
+       "I'm placing my trust in you lot. Let's see this case through... and try not to disappoint me."
+
+First move with an Ally Jinx Jinx
+
+     
+       "I'll be keeping a close eye on you, Jinx. You've caused enough chaos as it is."
+
+First move with an Ally Vi Vi
+
+     
+       "I'm glad you'll have my back, Vi. Let's keep the chaos to a minimum, shall we?"
+
+Moving
+
+     
+       "I will not tolerate lawlessness."
+     
+       "Let's do this by the book."
+     
+       "Always maintain a proper chain of command."
+     
+       "The heart of Piltover is its people."
+     
+       "I much prefer this to desk duty."
+     
+       "Never a dull moment."
+     
+       "It's my business to know what others do not."
+     
+       "I'm not here to serve. I'm here to protect."
+     
+       "Let's investigate."
+     
+       "I must always be three steps ahead."
+     
+       "I cannot afford to falter."
+     
+       "The law bends for no one."
+     
+       "No stone left unturned."
+     
+       "Crime is common, logic is rare."
+     
+       "Let's crack this case wide open."
+     
+       "Hot on the trail."
+     
+       "I'll have this finished before tea time."
+     
+       "I love a good chase."
+     
+       "Me, miss? Not by a long shot."
+     
+       "I'm on the job."
+     
+       "Even the smallest clue can break a case."
+     
+       "A true professional is always aware of her surroundings."
+     
+       "I do love a good mystery."
+     
+       "Someone call for a sheriff?"
+
+Long Move
+
+     
+       "Laws mean nothing when they fail to protect the public."
+     
+       "One must never start an investigation without first examining the evidence."
+     
+       "I always aim to win. And my aim is perfect."
+     
+       "They cannot run from the long arm of the law... nor from the scope of my rifle."
+     
+       "I am not Piltover's dog. I work for its people, no one else."
+     
+       "No matter the situation, a good investigator always remains calm."
+
+First Encounter
+
+First Encounter with an Enemy Champion
+
+     
+       "I have all the evidence I need."
+     
+       "This can only end with you behind bars."
+     
+       "I'll take you and your confession back to HQ."
+     
+       "Anything you say can and will be used against you."
+
+First Encounter with Camille Camille
+
+     
+       "I know you're hiding something, Camille. I just need to prove it."
+
+First Encounter with Ekko Ekko
+
+     
+       "Our values aren't so different, Ekko. Neither are Piltover and Zaun..."
+
+First Encounter with Ezreal Ezreal
+
+     
+       "There is more to life than chasing glory, Ezreal."
+
+First Encounter with Heimerdinger Heimerdinger
+
+     
+       "Am I to be the test subject for your latest invention, Heimerdinger?"
+
+First Encounter with Jayce Jayce
+
+     
+       "Jayce, is this really the way to create a better tomorrow?"
+
+First Encounter with Jinx Jinx
+
+     
+       "Is there a point to this madness, Jinx, or is it just a channel for your pain?"
+
+First Encounter with Seraphine Seraphine
+
+     
+       "(gasps) Seraphine! Would it be inappropriate to ask you for an autograph?"
+
+First Encounter with Urgot Urgot
+
+     
+       "This time, Urgot, I'll send you straight to prison myself."
+
+First Encounter with Vi Vi
+
+     
+       "I never thought I would stand opposite you again, Vi..."
+
+First Encounter with Viktor Viktor
+
+     
+       "Progress is essential to survival. But not like this, Viktor."
+
+First Encounter with Zac Zac
+
+     
+       "Well, this is certainly interesting. Zac, was it?"
+
+First Encounter with an Enemy Yordle
+
+     
+       "Oh, a Yordle. How cute."
+
+Taunt
+
+     
+       "Think you're above the law? Think again."
+
+Taunt Response
+
+     
+       "Admitting your guilt? How generous."
+
+Joke
+
+    Caitlyn tries to fire her rifle, but a flag pops out of its barrel.
+
+     
+       "Ready, aim... (gasps) Urgh! Why am I not surprised?"
+
+Joke Response
+
+     
+       "You have the right to remain silent. I advise you use it."
+
+Laugh
+
+     
+       Caitlyn laughs.
+
+Attack
+Basic Attacking
+Attacking
+
+     
+       "You won't escape!"
+     
+       "Got them in my sights."
+     
+       "I aim to win."
+     
+       "This is where you yield!"
+     
+       "Do not move!"
+     
+       "No hesitation!"
+     
+       "Let's rack this up."
+     
+       "Suspect engaged."
+     
+       "Surrender now!"
+     
+       "Target in sight."
+     
+       "I'll make this quick."
+     
+       "Predictable."
+     
+       "Stay out of my way!"
+     
+       "No more cat-and-mouse."
+     
+       "Up for a showdown?"
+     
+       "In position."
+     
+       "You cannot outrun your crimes!"
+     
+       "Drop your weapons!"
+
+Ability Casting
+Using Headshot Headshot
+
+Using empowered attack
+
+     
+       "Brilliant!"
+     
+       "As expected."
+     
+       "Boom! Headshot."
+
+Using Piltover Peacemaker Piltover Peacemaker
+
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+
+Using Yordle Snap Trap Yordle Snap Trap
+
+     
+       "Pay no attention to the trap."
+     
+       "Fancy a treat?"
+     
+       "Mind the trap."
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+
+Trapping an enemy
+
+     
+       "Right where I want you."
+     
+       "Got you!"
+     
+       "Going somewhere?"
+     
+       "Freeze!"
+
+Using 90 Caliber Net 90 Caliber Net
+
+     
+       "Think again."
+     
+       "Excellent shot!"
+     
+       "Not so close."
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+     
+       Caitlyn grunts.
+
+Using Ace in the Hole Ace in the Hole
+
+     
+       "In my sights."
+     
+       "Target marked."
+     
+       "Taking aim."
+     
+       "Calibrating..."
+     
+       "Steady..."
+
+Hitting an enemy
+
+     
+       "I never miss."
+     
+       "Immaculate!"
+     
+       "Exemplary!"
+
+Kills and Objectives
+
+Killing a Champion
+
+     
+       "So, it has come to this."
+     
+       "I would've preferred you in cuffs."
+     
+       "On to the next case."
+     
+       "Open and shut."
+     
+       "By the book."
+     
+       "Tea time's over."
+     
+       "Such a waste."
+     
+       "An easy collar."
+     
+       "Guilty as charged."
+
+Killing Camille Camille
+
+     
+       "Camille, I will not stop until I have all the answers."
+
+Killing Ekko Ekko
+
+     
+       "I cannot change the past, Ekko. But together, we can create a better future."
+
+Killing Ezreal Ezreal
+
+     
+       "Now, Ezreal, I'll take these artifacts as evidence."
+
+Killing Heimerdinger Heimerdinger
+
+     
+       "I hope you achieved the results you wanted, Heimerdinger."
+
+Killing Jayce Jayce
+
+     
+       "Our future will be bright, Jayce. I promise you."
+
+Killing Jinx Jinx
+
+     
+       "Perhaps Piltover can rest easy without you, Jinx. But Vi..."
+
+Killing Seraphine Seraphine
+
+     
+       "I was so looking forward to your next concert, Seraphine."
+
+Killing Urgot Urgot
+
+     
+       "A cell would've suited you much better, Urgot!"
+
+Killing Vi Vi
+
+     
+       "I never wanted this, Vi..."
+
+Killing Viktor Viktor
+
+     
+       "This 'glorious evolution'... it will not be our fate, Viktor."
+
+Killing Zac Zac
+
+     
+       "There are easier ways to create a kinder world, Zac."
+
+Scoring First Blood
+
+     
+       "One down."
+     
+       "And so it begins."
+     
+       "Ready to surrender yet?"
+
+Scoring a Triple Kill
+
+     
+       "Perfect practice, precise results."
+
+Scoring a Pentakill
+
+     
+       "Well that's going to take a great deal of paperwork."
+
+Scoring an Ace
+
+     
+       "Case closed."
+
+Destroying a Turret icon.png Turret
+
+     
+       "Perimeter secured."
+     
+       "Hardly what I'd call a defense."
+     
+       "Securing the perimeter."
+     
+       "Let's move up."
+
+Other Gameplay
+
+Being healed/shielded by Ally Champion
+
+     
+       "Cheers."
+     
+       "Thank you."
+     
+       "Much appreciated."
+
+Recall Recall
+
+     
+       "If crime never sleeps, then I'd best put on another pot of tea."
+     
+       "Do not disturb the crime scene until I return."
+     
+       "Be good while I'm gone, won't you?"
+
+Death
+
+     
+       "I cannot let them down..."
+     
+       "Can't leave this unsolved..."
+     
+       "Tell Vi that I..."
+     
+       Caitlyn groans.
+
+Respawn
+
+     
+       "I'm back on the case! And this time I will not fail."
+     
+       "It seems I may have a new suspect..."
+     
+       "I'll be adding that to the charges."
+
+Co-op vs. AI Responses
+
+Match Start
+
+    "The Sheriff's in town."
+
+Against Player Yordle
+
+    "I've got a cupcake cupcake for you, little Yordle."
+
+Player Team Victory
+
+    "Sharp shooting, everyone."
+
+Player Team Defeat
+
+    "GG!"
+
+

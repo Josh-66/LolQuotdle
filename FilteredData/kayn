@@ -1,0 +1,501 @@
+Champion Select
+
+Pick
+
+     
+      Kayn OriginalCircle.png "Will you prove worthy?"
+        Rhaast OriginalCircle.png"Probably not."
+
+Ban
+
+     
+      Kayn OriginalCircle.png "The weak fear the shadows."
+        Rhaast OriginalCircle.png"Fear controls them."
+
+    Classic
+    Odyssey
+    Announcer
+
+    Kayn
+    Rhaast
+    Shadow Assassin
+
+Kayn_Special_Interactions
+px=48
+Movement
+First Move
+
+     
+      Kayn OriginalCircle.png "The child is gone. The killer will remain..."
+     
+      Rhaast OriginalCircle.png "I will survive eternity; they will die today."
+     
+      Kayn OriginalCircle.png "The blood of the fallen will annoint me the new master."
+        Rhaast OriginalCircle.png "Everyone does look better in red."
+     
+      Kayn OriginalCircle.png "Lives will be taken, and the real plan revealed."
+        Rhaast OriginalCircle.png "Killing is the plan. Let me show you..."
+     
+      Kayn OriginalCircle.png "The true assassin kills one to save many."
+        Rhaast OriginalCircle.png "Such noble lies. Save no one; it's so liberating!"
+     
+      Rhaast OriginalCircle.png "Rage inside me will not be contained!"
+        Kayn OriginalCircle.png "The spade does not dictate the architect's vision."
+     
+      Rhaast OriginalCircle.png "Cast off the yoke of Zed's order."
+        Kayn OriginalCircle.png "It is the order that will break you, Rhaast."
+     
+      Rhaast OriginalCircle.png "There is fear in your grip and doubt in your heart."
+        Kayn OriginalCircle.png "I have no heart—that you should fear."
+     
+      Rhaast OriginalCircle.png "The undoing draws near."
+        Kayn OriginalCircle.png "Yes—yours."
+
+Moving
+
+     
+      Kayn OriginalCircle.png "I was born into a nation of despair and I alone am the remedy."
+     
+      Kayn OriginalCircle.png "I have chosen you. You will serve me."
+     
+      Kayn OriginalCircle.png "I have mastered every weapon of war. No prattling tool will prove an exception."
+     
+      Kayn OriginalCircle.png "Whom should I obey? Master Zed, or the farm implement with delusions of grandeur?"
+     
+      Kayn OriginalCircle.png "Underestimate me at your peril."
+     
+      Kayn OriginalCircle.png "Kill the body."
+     
+      Kayn OriginalCircle.png "Kill the mind."
+     
+      Rhaast OriginalCircle.png "The rage is in your hands; let it loose!"
+     
+      Rhaast OriginalCircle.png "Their screams thrill me."
+     
+      Rhaast OriginalCircle.png "Zed's order shackles you; I offer freedom!"
+     
+      Rhaast OriginalCircle.png "You are not worthy of the power you hold."
+     
+      Rhaast OriginalCircle.png "This is the part I like best: the anticipation. No, it's the killing."
+     
+      Rhaast OriginalCircle.png "Such an obsequious pupil. I will be your new master."
+     
+      Rhaast OriginalCircle.png "Target the strong. I am a weapon, not some accessory."
+     
+      Rhaast OriginalCircle.png "Neither time nor violence will end me."
+     
+      Kayn OriginalCircle.png "What does Rhaast mean anyway?"
+        Rhaast OriginalCircle.png "Obey."
+     
+      Kayn OriginalCircle.png "I learned from a young age to embrace the shadows."
+        Rhaast OriginalCircle.png "Darkness is a start."
+     
+      Kayn OriginalCircle.png "I let you go and you will die."
+        Rhaast OriginalCircle.png "And you will lose."
+     
+      Kayn OriginalCircle.png "I am the weapon; you are a tool."
+        Rhaast OriginalCircle.png "Lies soothe the mind, don't they?"
+     
+      Kayn OriginalCircle.png "What will be the final lesson?"
+        Rhaast OriginalCircle.png "Give in, and I will show you."
+     
+      Rhaast OriginalCircle.png "I am no toy, Kayn."
+        Kayn OriginalCircle.png "You possess the hubris of a more fearsome weapon."
+     
+      Rhaast OriginalCircle.png "There is much darkness around you—in you."
+        Kayn OriginalCircle.png "That is my armor."
+     
+      Rhaast OriginalCircle.png "Tell me, was it desperation that led you to me?"
+        Kayn OriginalCircle.png "Audacity."
+     
+      Rhaast OriginalCircle.png "I see your nightmares. Do they trouble you?"
+        Kayn OriginalCircle.png "Not nightmares—plans..."
+     
+      Rhaast OriginalCircle.png "I have waited eons to bathe this realm in blood!"
+        Kayn OriginalCircle.png "Talk, talk... You'll do nothing without me."
+     
+      Rhaast OriginalCircle.png "Ionians... Are they all as confident as you?"
+        Kayn OriginalCircle.png "There is no one like me."
+
+Moving in River
+
+     
+      Kayn OriginalCircle.png "Wait by the river long enough and the enemy dead will float by."
+     
+      Rhaast OriginalCircle.png "Oh, yeah... Let's turn this river red."
+     
+      Rhaast OriginalCircle.png "Oh, how I miss the smell of blood in the water"
+        Kayn OriginalCircle.png "Today you will be reminded."
+
+Move in Jungle
+
+     
+      Kayn OriginalCircle.png *laugh* "Their screams will echo in this place."
+     
+      Rhaast OriginalCircle.png "Stain this fetid swamp with their blood."
+
+Taunt
+
+     
+      Kayn OriginalCircle.png "There are a thousand ways to kill you in this moment; I'm planning the right one..."
+     
+      Kayn OriginalCircle.png "This will be quick, but still painful."
+     
+      Rhaast OriginalCircle.png "I was forged to destroy, and you are in my way."
+     
+      Rhaast OriginalCircle.png "I will take that pitiful existence you call a life from you."
+
+Taunting an enemy Noxian
+
+     
+      Kayn OriginalCircle.png "Your kind go no further!"
+     
+      Kayn OriginalCircle.png "Your kind go no further!"
+
+Taunting an enemy Yordle
+
+     
+      Rhaast OriginalCircle.png "Yordles... Uggghhh, you sicken me."
+
+Taunting an allied Aatrox Aatrox
+
+     
+      Rhaast OriginalCircle.png "Death and war. This will be delicious..."
+
+Taunting an allied Varus Varus
+
+     
+      Rhaast OriginalCircle.png "We find Aatrox, and it's a party. Of murder. A murder party!"
+
+Taunting an allied Zed Zed
+
+     
+      Kayn OriginalCircle.png "Together, we are unstoppable, Zed!"
+
+Joke
+
+     
+      Kayn OriginalCircle.png "I can see twelve ways to kill you. Ah! Correction: thirteen. It's thirteen.
+     
+      Kayn OriginalCircle.png "I'm holding a sentient weapon of doom, denied blood for eons! You think I'm scared of you?"
+     
+      Rhaast OriginalCircle.png "I find your will to live amusing.."
+     
+      Rhaast OriginalCircle.png "I smell death... Nope, it's you. You smell...bad."
+     
+      Rhaast OriginalCircle.png "A craftsman never blames his tools."
+        Kayn OriginalCircle.png "I will make an exception in this case."
+
+Laugh
+
+     
+      Kayn OriginalCircle.png Kayn laughs.
+
+Attack
+Attacking
+
+     
+      Kayn OriginalCircle.png "Shadows cut deep as fear!"
+     
+      Kayn OriginalCircle.png "Found you!"
+     
+      Kayn OriginalCircle.png "Cowering in the light—how foolish!"
+     
+      Kayn OriginalCircle.png "Fear the darkened blade!"
+     
+      Kayn OriginalCircle.png "The blade bends to you!"
+     
+      Kayn OriginalCircle.png "The shadows find everyone."
+     
+      Kayn OriginalCircle.png "You have my undivided attention!"
+     
+      Kayn OriginalCircle.png "Found you!"
+     
+      Rhaast OriginalCircle.png "Set me free!"
+     
+      Rhaast OriginalCircle.png "Drive me into their flesh!"
+     
+      Rhaast OriginalCircle.png "Kill them all!"
+     
+      Rhaast OriginalCircle.png "From the shadow comes the slaughter."
+     
+      Rhaast OriginalCircle.png "Time to reap."
+     
+      Rhaast OriginalCircle.png "Every slaughter has humble beginnings."
+     
+      Rhaast OriginalCircle.png "Never underestimate hatred."
+     
+      Rhaast OriginalCircle.png "Feed me more lives!"
+     
+      Kayn OriginalCircle.png "Another target!"
+        Rhaast OriginalCircle.png "More! More!"
+     
+      Kayn OriginalCircle.png "They're next."
+        Rhaast OriginalCircle.png "Don't wait; slay!"
+     
+      Rhaast OriginalCircle.png "Again!"
+        Kayn OriginalCircle.png "Yes!"
+     
+      Rhaast OriginalCircle.png "Again!"
+        Kayn OriginalCircle.png "Yes!"
+     
+      Rhaast OriginalCircle.png "Again!"
+        Kayn OriginalCircle.png "Yes!"
+     
+      Rhaast OriginalCircle.png "They are worthy?"
+        Kayn OriginalCircle.png "To die? Yes."
+
+Attacking Aatrox Aatrox
+
+     
+      Kayn OriginalCircle.png "He's with you, I assume?"
+        Rhaast OriginalCircle.png "Aatrox. We have...history."
+
+Attacking Shen Shen
+
+     
+      Kayn OriginalCircle.png "This brings me no pleasure, Shen."
+        Rhaast OriginalCircle.png "It will for me."
+
+Attacking Zed Zed
+
+     
+      Rhaast OriginalCircle.png "This is your master? Zed?"
+        Kayn OriginalCircle.png "Leave us to it!"
+     
+      Rhaast OriginalCircle.png "Teacher and student, yes?"
+        Kayn OriginalCircle.png "Inevitable."
+
+Attacking the Rift Scuttler Rift Scuttler
+
+     
+      Kayn OriginalCircle.png "Such a waste of time."
+     
+      Kayn OriginalCircle.png "This will only dull the blade."
+     
+      Rhaast OriginalCircle.png "Sure. Why not?"
+     
+      Rhaast OriginalCircle.png "Well...we're here."
+
+Attacking the Dragon Dragon
+
+     
+      Kayn OriginalCircle.png "The bigger they are..."
+        Rhaast OriginalCircle.png "The louder they scream."
+
+Ability Casting
+Using Shadow Step Shadow Step
+
+     
+      Kayn OriginalCircle.png "No escape."
+     
+      Kayn OriginalCircle.png "Fear this!"
+     
+      Rhaast OriginalCircle.png "Yes...!"
+     
+      Rhaast OriginalCircle.png "Yes..."
+     
+      Kayn OriginalCircle.png "Here we go!"
+        Rhaast OriginalCircle.png "Oh! I do like this."
+
+Using Umbral Trespass Umbral Trespass
+
+     
+      Kayn OriginalCircle.png Kayn laughs.
+
+Kills and Objectives
+
+Killing a Melee Champion
+
+     
+      Rhaast OriginalCircle.png "Every kill fuels my fury."
+     
+      Rhaast OriginalCircle.png "Yes! Slaughter!"
+     
+      Rhaast OriginalCircle.png "Just like that, and the world will be yours to destroy."
+     
+      Rhaast OriginalCircle.png "Tenacity versus fury... Fury always wins."
+     
+      Rhaast OriginalCircle.png "Why murder one, when you can slaughter many?"
+     
+      Rhaast OriginalCircle.png "Triumph is built on a foundation of death."
+     
+      Rhaast OriginalCircle.png "The strong fall so quickly to my blade."
+     
+      Rhaast OriginalCircle.png "The only way to kill..."
+     
+      Rhaast OriginalCircle.png "These are the strong? Pathetic."
+     
+      Rhaast OriginalCircle.png "Worthless foes mock my presence."
+     
+      Rhaast OriginalCircle.png "Those who seek balance find only death."
+     
+      Rhaast OriginalCircle.png "Balance is weakness."
+     
+      Rhaast OriginalCircle.png "This is but a taste of my wrath."
+
+Killing a Ranged Champion
+
+     
+      Kayn OriginalCircle.png "With each kill, the shadows grow deeper."
+     
+      Kayn OriginalCircle.png "Death delivered with precision is true power."
+     
+      Kayn OriginalCircle.png "What was written in shadow, now in flesh."
+     
+      Kayn OriginalCircle.png "Death finds fools quickly."
+     
+      Kayn OriginalCircle.png "Cowards hide, but never escape."
+     
+      Kayn OriginalCircle.png "Fear is your shadow! You are cloaked in it."
+     
+      Kayn OriginalCircle.png "The shadows are my realm—and your grave."
+     
+      Kayn OriginalCircle.png "Shadows are a shallow grave."
+     
+      Kayn OriginalCircle.png "Facing me was a mistake."
+     
+      Kayn OriginalCircle.png "That was your destiny: to die."
+     
+      Kayn OriginalCircle.png "Those seeking balance will find death."
+     
+      Kayn OriginalCircle.png "Even Zed would be impressed."
+
+Killing an enemy with Umbral Trespass Umbral Trespass
+
+     
+      Kayn OriginalCircle.png "Hush..."
+     
+      Kayn OriginalCircle.png "You let me in... So foolish!"
+     
+      Rhaast OriginalCircle.png "Ripped out!"
+     
+      Rhaast OriginalCircle.png "That's one to remember!"
+     
+      Kayn OriginalCircle.png "This is power!"
+        Rhaast OriginalCircle.png "Disgusting... I love it!"
+     
+      Kayn OriginalCircle.png "Too late."
+        Rhaast OriginalCircle.png "I'm impressed!"
+
+Killing a Noxian
+
+     
+      Kayn OriginalCircle.png "Noxian strength is a lie."
+     
+      Kayn OriginalCircle.png "No mercy! Right, Noxian?"
+
+Killing Aatrox Aatrox
+
+     
+      Rhaast OriginalCircle.png "Sorry, brother. You were in my way."
+     
+      Rhaast OriginalCircle.png "Your skills have not improved, Aatrox."
+
+Killing Shen Shen
+
+     
+      Kayn OriginalCircle.png "Shen. Consider this a debt paid to a friend."
+
+Killing Varus Varus
+
+     
+      Rhaast OriginalCircle.png "Demon-pants had it coming."
+
+Killing Zed Zed
+
+     
+      Kayn OriginalCircle.png "It should not have come to this, Zed..."
+     
+      Kayn OriginalCircle.png "You taught me too well, master."
+     
+      Kayn OriginalCircle.png "Live by the shadow, die by the shadow..."
+     
+      Rhaast OriginalCircle.png "Zed's dead, baby... Zed's dead."
+     
+      Rhaast OriginalCircle.png "Zed's final lesson? Don't be him."
+
+Scoring First Blood
+
+     
+      Kayn OriginalCircle.png "That was for Zed."
+     
+      Kayn OriginalCircle.png "Merely the first to die. There will be more."
+     
+      Rhaast OriginalCircle.png "Ooohhh! That felt good."
+     
+      Rhaast OriginalCircle.png "You never forget your first kill... Nope, that's not right; I've already forgotten it."
+
+Scoring a Quadrakill
+
+     
+      Kayn OriginalCircle.png "That's four by my count."
+     
+      Rhaast OriginalCircle.png "Stand back! Kayn doesn't know how deadly this thing gets!"
+
+Scoring a Pentakill
+
+     
+      Kayn OriginalCircle.png "You wanted mercy? Not from me!"
+     
+      Rhaast OriginalCircle.png "Where are the worthy?"
+
+Scoring an Ace
+
+     
+      Kayn OriginalCircle.png "My potential has been realized!"
+     
+      Rhaast OriginalCircle.png "The reaping has begun!"
+
+Gold.pngShopping
+
+Buying an Item
+
+     
+      Kayn OriginalCircle.png "This will very much upset the balance."
+     
+      Kayn OriginalCircle.png "A match made in shadow."
+     
+      Rhaast OriginalCircle.png "Aren't I enough?"
+     
+      Rhaast OriginalCircle.png "Well, you know what you want..."
+     
+      Rhaast OriginalCircle.png "Not my first choice, but okay."
+     
+      Rhaast OriginalCircle.png "You're making me jealous."
+     
+      Rhaast OriginalCircle.png "Good choice—pairs nicely with wrath and fury."
+
+Other Gameplay
+
+Placing a Ward icon.png Ward
+
+     
+      Kayn OriginalCircle.png "For those who cannot see in the dark..."
+     
+      Kayn OriginalCircle.png "Let there be sight."
+     
+      Rhaast OriginalCircle.png "Done. Now can we continue the bloodbath?"
+
+Destroying a Ward icon.png Ward
+
+     
+      Kayn OriginalCircle.png "Sight...a pitiful crutch for the weak."
+     
+      Kayn OriginalCircle.png "Darkness falls."
+     
+      Rhaast OriginalCircle.png "These trinkets only annoy me."
+
+Recall Recall
+
+     
+      Kayn OriginalCircle.png "The fight will continue."
+     
+      Rhaast OriginalCircle.png "But there's still so much to kill!"
+     
+      Rhaast OriginalCircle.png "Retreat?!"
+        Kayn OriginalCircle.png "Do not question me, or my motives!"
+     
+      Rhaast OriginalCircle.png "The weak run. Stay and fight!"
+        Kayn OriginalCircle.png "Did such foolishness lead to your imprisonment?"
+
