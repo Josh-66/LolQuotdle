@@ -29,9 +29,10 @@ function play(instance){
     let quoteArr = quote.split(" ");
     let words = 1;
     let guesses=0;
-    remainingChamps = gameData.champNames.slice(0,gameData.champNames.length);
+    let remainingChamps = gameData.champNames.slice(0,gameData.champNames.length);
     let win = false;
     let donequotes = []
+
     ask();
 
     function ask(){
